@@ -184,7 +184,7 @@ That `layouts/article_layout.erb` layout would look like this
 ```
 
 Like a normal layout, `yield` is where the resulting template content is
-placed. In this example, you've end up with the following output:
+placed. In this example, you've ended up with the following output:
 
 ``` html
 <html>
